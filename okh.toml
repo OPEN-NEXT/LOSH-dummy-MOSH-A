@@ -1,7 +1,7 @@
 okhv = "2.0"
 repo = "https://github.com/OPEN-NEXT/LOSH-dummy-MOSH-A"
 name = "LOSH Dummy MOSH-A"
-version = "1.0.1"
+version = "1.0.2"
 release = "https://github.com/OPEN-NEXT/LOSH-dummy-MOSH-A/releases/tag/v1.0.1"
 license = "CERN-OHL-S-2.0"
 licensor = "Martin Häuer"
