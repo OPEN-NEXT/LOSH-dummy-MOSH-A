@@ -12,7 +12,7 @@ technology-readiness-level = "OTLR-5"
 standard = "DIN 5008:2020-03"
 function = "Doesn't do much, yet."
 patent-class = "D03D 35/00"
-tsdc-id = "ASM-MEC"
+tsdc-id = "MEC"
 bom = "sBoM.csv"
 rpm = "666"
 outer-dimensions = "cube(size = [300,300,300]"
@@ -21,7 +21,7 @@ manufacturing-instructions = "/Documentation/AssemblyGuide.md"
 [[part]]
 name = "Clamp Ring"
 image = "/Documentation/Assembly_Guide/Parts_Print_2.jpg"
-tsdc-id = "COM-MAN"
+tsdc-id = "3DP"
 source = "/3DParts/ClampRing/ClampRing.scad"
 export = [
   "/3DParts/ClampRing/ClampRing.pdf",
