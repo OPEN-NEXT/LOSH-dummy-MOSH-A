@@ -1,2 +1,3 @@
-# LOSH-dummy-MOSH-A
-T3.3: dummy MOSH for testing reasons
+# LOSH Dummy Module A
+
+Works in combination with modules B, C and D.
